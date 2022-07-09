@@ -1,4 +1,5 @@
 import math
 import matplotlib
 import turtle
-import time
+
+print("Hello World!")
